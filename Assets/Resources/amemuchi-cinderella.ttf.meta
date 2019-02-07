@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 63df02ed8ada4d94da503abc2a29adcf
+timeCreated: 1517022463
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 70
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: amemuchi-cinderella
+  fontNames:
+  - amemuchi-cinderella
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
